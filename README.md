@@ -1,4 +1,4 @@
-<h1><strong>Blue Rex: </strong> <br>Word Press Theme</h1>
+<h1><strong>Blue Rex : </strong> <br>Word Press Theme</h1>
 
 <p>
 	<img src="https://i.ibb.co/Th2Cg6S/wpbaner.png" alt="WP-Theme">
@@ -8,7 +8,7 @@
 
 <p><strong>Word Press</strong> : https://wordpress.org/</p>
 
-<p><strong>Plugins for work: </strong><p> 
+<p><strong>Plugins for work : </strong><p> 
 
 
 	
