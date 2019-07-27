@@ -27,4 +27,6 @@
 <p>Advanced Custom Fields : https://www.advancedcustomfields.com/</p>
 
 
+<p><strong>Site : http://bluerex.bet.fozzyhost.com/ </strong><p> 
+
 
