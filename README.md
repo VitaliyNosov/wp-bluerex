@@ -6,7 +6,7 @@
 
 <p>Word Press website for your business.</p>
 
-<p><strong>Word Press</strong>https://wordpress.org/</p>
+<p><strong>Word Press</strong> : https://wordpress.org/</p>
 
 <p><strong>Plugins for work:</strong><p> 
 
