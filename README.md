@@ -1,30 +1,25 @@
-<h1><strong>Blue Rex : </strong> <br>Word Press Theme</h1>
+# Blue Rex: 
+## Word Press Theme
 
-<p>
-	<img src="https://i.ibb.co/Th2Cg6S/wpbaner.png" alt="wp">
-</p>
+<img src="https://i.ibb.co/Th2Cg6S/wpbaner.png" alt="wp">
 
-<p>Word Press website for your business.</p>
+### Word Press website for your business.
 
-<p><strong>Word Press</strong> : https://wordpress.org/</p>
+#### Plugins for work: 
 
-<p><strong>Plugins for work : </strong><p> 
+[WP Super Cache](https://odd.blog/wp-super-cache-developers/ "Я ссылка")
+
+[Show Current](https://wordpress.org/plugins/reveal-template/Template "Я ссылка")
+
+[Duplicator](https://snapcreek.com/duplicator/?utm_source=duplicator_free&utm_medium=wp_org&utm_content=desc_details&utm_campaign=duplicator_free "Я ссылка")
+
+[Cyr-To-Lat](https://wordpress.org/plugins/cyr2lat/ "Я ссылка")
+
+[Contact Form 7](https://contactform7.com/ "Я ссылка")
+
+[Advanced Custom Fields](https://www.advancedcustomfields.com/ "Я ссылка")
 
 
-	
-<p>WP Super Cache : https://odd.blog/wp-super-cache-developers/</p>
-
-<p>Show Current : https://wordpress.org/plugins/reveal-template/ Template</p>
-
-<p>Duplicator : https://snapcreek.com/duplicator/?utm_source=duplicator_free&utm_medium=wp_org&utm_content=desc_details&utm_campaign=duplicator_free</p>
-
-<p>Duplicate Post : https://duplicate-post.lopo.it/</p>
-
-<p>Cyr-To-Lat : https://wordpress.org/plugins/cyr2lat/</p>
-
-<p>Contact Form 7 : https://contactform7.com/</p>
-
-<p>Advanced Custom Fields : https://www.advancedcustomfields.com/</p>
 
 
 
